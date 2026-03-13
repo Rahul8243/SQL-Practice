@@ -1,0 +1,2 @@
+CREATE DATABASE redbus_online_ticket_booking_system;
+USE redbus_online_ticket_booking_system;
