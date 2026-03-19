@@ -1,0 +1,2 @@
+CREATE DATABASE RedBusDB;
+USE RedBusDB;
