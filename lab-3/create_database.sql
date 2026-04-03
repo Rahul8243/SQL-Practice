@@ -1,0 +1,2 @@
+CREATE DATABASE Bennett_University;
+USE Bennett_University;
