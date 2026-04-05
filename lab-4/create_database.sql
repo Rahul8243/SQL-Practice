@@ -1,0 +1,2 @@
+create database Assignment_4_Rahul;
+use Assignment_4_Rahul;
